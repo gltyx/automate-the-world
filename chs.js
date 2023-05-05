@@ -147,7 +147,7 @@ var cnItems = {
     "FUEL EFFICIENCY II": "燃油效率 II",
     "Fuel is now 1.5x more efficient": "燃油效率现在提高 1.5 倍",
     "Increases the amount of resources get when manually mining/chopping": "增加手动挖掘/砍伐时获得的资源量",
-    "LOCKED TECHNOLOGY": "技术锁定",
+    "LOCKED TECHNOLOGY": "未解锁科技",
     "NO CURRENT TECH IN PROGRESS": "目前没有正在进行的技术",
     "Autonomy I": "自治权 I",
     "AUTONOMY I": "自治权 I",
